@@ -1,0 +1,36 @@
+======================== collecting information for domain uvic.ca ========================
+
+----------- domain information -----------
+domain: uvic.ca
+domain id: D15290-CIRA
+domain registrar: Webnames.ca Inc.
+registrar whois server: whois.ca.fury.ca
+registrant organization: unavailable
+registrant name: University of Victoria
+registrar abuse contact email: unavailable
+registrar abuse contact phone: unavailable
+registrant contact email: rkozsan@uvic.ca
+registrant phone: +1.2504724825
+admin contact email: jgodfrey@uvic.ca
+admin phone: +1.2507217673
+tech contact email: netadmin@uvic.ca
+tech phone: +1.2507217654
+country: CA
+state/province: BC
+registration expiry date: unavailable
+
+----------- name servers -----------
+dns2.uvic.ca.
+dns1.uvic.ca.
+ns3.uvic.ca.
+
+----------- dns records -----------
+uvic.ca.		295	IN	A	142.104.197.120
+
+----------- txt records -----------
+"f04ocvmenhv37j8mau806b5jn3"
+"RjMnKW4rPTiJX6DUqsgbP5DuLUD8d8ocdsiXQrVZ54LXwcOykfLxB66TiAUEa31xUe1RwJsRgxPPKp/qOtE2Og=="
+"mD+0q0X5FUWEBWxUIVk31+f39R8UDWOQlFuKUrHk68o="
+"apple-domain-verification=IplE4KLm9HJQK7jf"
+"google-site-verification=2MlihNum3j8H5JhlVkuFYFeEtd1yuRtbijKhftzOFO0"
+"zQYk7mijv8Nm3o3McY5aUNqGO0ViR/sXIAO3RB04tdI="

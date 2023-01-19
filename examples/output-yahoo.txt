@@ -1,0 +1,42 @@
+======================== collecting information for domain yahoo.com ========================
+
+----------- domain information -----------
+domain: yahoo.com
+domain id: 3643624_DOMAIN_COM-VRSN
+domain registrar: MarkMonitor, Inc.
+registrar whois server: whois.markmonitor.com
+registrant organization: Yahoo Assets LLC
+registrant name: unavailable
+registrar abuse contact email: abusecomplaints@markmonitor.com
+registrar abuse contact phone: +1.2083895770
+registrant contact email: Select Request Email Form at https://domains.markmonitor.com/whois/yahoo.com
+registrant phone: unavailable
+admin contact email: Select Request Email Form at https://domains.markmonitor.com/whois/yahoo.com
+admin phone: unavailable
+tech contact email: Select Request Email Form at https://domains.markmonitor.com/whois/yahoo.com
+tech phone: unavailable
+country: US
+state/province: VA
+registration expiry date: 2023-01-19T05
+
+----------- name servers -----------
+ns2.yahoo.com.
+ns3.yahoo.com.
+ns1.yahoo.com.
+ns5.yahoo.com.
+ns4.yahoo.com.
+
+----------- dns records -----------
+yahoo.com.		362	IN	A	74.6.231.21
+yahoo.com.		362	IN	A	98.137.11.163
+yahoo.com.		362	IN	A	74.6.143.26
+yahoo.com.		362	IN	A	74.6.231.20
+yahoo.com.		362	IN	A	98.137.11.164
+yahoo.com.		362	IN	A	74.6.143.25
+
+----------- txt records -----------
+"google-site-verification=2b8irRvU5a2h4Mb-H_fdqNrqWjS00qmPfPcWqm8BhxI"
+"v=spf1 redirect=_spf.mail.yahoo.com"
+"edb3bff2c0d64622a9b2250438277a59"
+"Zoom=13284637"
+"facebook-domain-verification=gysqrcd69g0ej34f4jfn0huivkym1p"

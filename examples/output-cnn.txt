@@ -1,0 +1,83 @@
+======================== collecting information for domain cnn.com ========================
+
+----------- domain information -----------
+domain: cnn.com
+domain id: 3269879_DOMAIN_COM-VRSN
+domain registrar: CSC CORPORATE DOMAINS, INC.
+registrar whois server: whois.corporatedomains.com
+registrant organization: Turner Broadcasting System, Inc.
+registrant name: Domain Name Manager
+registrar abuse contact email: domainabuse@cscglobal.com
+registrar abuse contact phone: +1.8887802723
+registrant contact email: tmgroup@turner.com
+registrant phone: +1.4048275000
+admin contact email: tmgroup@turner.com
+admin phone: +1.4048275000
+tech contact email: hostmaster@turner.com
+tech phone: +1.4048275000
+country: US
+state/province: GA
+registration expiry date: 2026-09-21T00
+
+----------- name servers -----------
+ns-1086.awsdns-07.org.
+ns-47.awsdns-05.com.
+ns-1630.awsdns-11.co.uk.
+ns-576.awsdns-08.net.
+
+----------- dns records -----------
+cnn.com.		16	IN	A	151.101.129.67
+cnn.com.		16	IN	A	151.101.1.67
+cnn.com.		16	IN	A	151.101.65.67
+cnn.com.		16	IN	A	151.101.193.67
+
+----------- txt records -----------
+"_globalsign-domain-verification=MK_ZKmss4D_DdzGOsssHxxBOK6hJc6LGycFvNOESdZ"
+"_globalsign-domain-verification=S6DssfjyL_2kgK4I2Ae_1cdPfwqRRBfB9-3ZhRGMRj"
+"_globalsign-domain-verification=yTw3T3KnyIyTB1xG2GvVhl1zWJlFp-WqmNskdVI_65"
+"adobe-idp-site-verification=279ead95-3581-42b7-82f4-73c97f8cebfa"
+"adobe-sign-verification=c3dc3217f76deddcb413a23e4e665fad"
+"cisco-ci-domain-verification=4a1c92ef69fe42f8125c3ca9ce0696dcf6cc16fa80243257de578af593d19548"
+"d1xTs9+kADZZSz3bPphLpkMXXxBGjqn5vsQHhi2M6lo0r8AdIbm6j8LfQXPujsywVgeGSP+AXWX0vO9Iep5cUg=="
+"facebook-domain-verification=xszi21kow2trmw3xt3ph6s631zyu3i"
+"globalsign-domain-verification=-Q7umwx2mj164XwLa0PsoUaWe2HBhta50GjggsT98f"
+"globalsign-domain-verification=2lI5pahhCu_jg_2RC5GEdolQmAa4K7rhP7_OA-lZBK"
+"google-site-verification=R-Btow3Z8oU_9H1IWU4Gm4lvUQ_OVmsfxonIKhIaiPE"
+"google-site-verification=_QivaXNjhXy-V1y_YqrycXdAWZi2mVrcwbXerX6THeY"
+"mixpanel-domain-verify=612e2914-a7fb-4965-95d5-19acc02797df"
+"mongodb-site-verification=mtrxHeW3jOzWtwEwnOLpeQo9NXh6Lqas"
+"ms=ms97284866"
+"stripe-verification=094254c9a60a6dc0c1c2a62294b81c0c3b9363d044151a3e562ffeac0a7c4157"
+"stripe-verification=5535d8a3c7b3517ee3765df8bd66b8a5cf70a65c3437f5be5d3a8f0108b790ef"
+"v=spf1 include:cnn.com._nspf.vali.email include:%{i}._ip.%{h}._ehlo.%{d}._spf.vali.email include:mail.zendesk.com ~all"
+"126953328-4422040"
+"133461244-4422058"
+"178953534-4422001"
+"186844776-4422028"
+"228426766-4422034"
+"267933795-4422004"
+"287893558-4422013"
+"294913881-4422049"
+"299762315-4422055"
+"2baPGrmeo+RwsWdIdq/gIVSEWNb4tC9mLGQu0j4l/mduqhm06T+V9vNLXsauLyH9FwMZJSRHvj/YHGKOVWRylw=="
+"321159687-4422031"
+"349997471-4422043"
+"353665828-4422052"
+"528183251-4422019"
+"553992719-4400647"
+"598362927-4422061"
+"667921863-4422007"
+"688162515-4422037"
+"691244352-4422022"
+"714321471-4421998"
+"754516718-4422064"
+"755973593-4422016"
+"764482256-4422025"
+"782989862-4417942"
+"826218936-4422046"
+"882269757-4422010"
+"MS=ms66433104"
+"_globalsign-domain-verification=-lBuNJDFRxDkLkNbYOLBU03PlWjnPqAzBPAVUokhAw"
+"_globalsign-domain-verification=2lybn8Z2GKCTHNehPEREKdz_jh5SahShpwOeRqCWjl"
+"_globalsign-domain-verification=5ckEJ4VIhQ6weCdCfmfzQPVP6ED1LtCX9jw1OKX5Mv"
+"_globalsign-domain-verification=B57sRQpmte4G4w-gavZbVNmmNsMxGp5kcL19UP2599"
