@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # SENG460 Lab Assignment - Spring 2022
-# Benjamin Austin V00892013
 
 # who doesnt like a bit of ascii? creds to https://patorjk.com/software/taag
 
@@ -14,7 +13,7 @@
                                                                  
 
 # --------------------------- constants and setup ---------------------------
-# wow pretty colors and text very cool wow
+# wow pretty colors
 red=$(tput setaf 1)
 green=$(tput setaf 2)
 magenta=$(tput setaf 5)
@@ -35,8 +34,6 @@ IP_RX="^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$"
 # input type flag: 0 = email, 1 = ip, 2 = url/domain
 input_type=-1
 
-# exit if things fail
-#set -e
 # ---------------------------------------------------------------------------
 
 
